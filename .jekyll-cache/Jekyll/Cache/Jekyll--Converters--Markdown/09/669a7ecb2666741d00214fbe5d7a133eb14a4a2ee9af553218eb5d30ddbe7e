@@ -1,0 +1,17 @@
+I"¼<p>I am an undergraduate student @ <ins>UC Berkeley</ins> majoring in Computer Science.</p>
+<div class="message">
+  Expected graduation: fall 22
+</div>
+
+<h2 id="tech-courses-taken">Tech courses taken:</h2>
+<ul>
+  <li>MATH 53: Multivariable Calculus</li>
+  <li>MATH 113: Introduction to Abstract Algebra</li>
+  <li>CS 61A: Structure and Interpretation of Computer Programs <a href="https://cs61a.org/">[website]</a></li>
+  <li>CS 61B: Data Structures <a href="https://inst.eecs.berkeley.edu/~cs61b/">[website]</a></li>
+  <li>CS 61C: Great Ideas in Computer Architecture (Machine Structures) <a href="https://cs61c.org/">[website]</a></li>
+  <li>CS 70: Discrete Mathematics and Probability Theory <a href="https://www.eecs70.org/">[website]</a></li>
+  <li>CS 161: Computer Security <a href="https://cs161.org/">[website]</a></li>
+  <li>CS 188: Introduction to Artificial Intelligence <a href="https://inst.eecs.berkeley.edu/~cs188/">[website]</a></li>
+</ul>
+:ET
