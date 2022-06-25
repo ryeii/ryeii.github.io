@@ -1,0 +1,37 @@
+I"	<p>I am an undergraduate student @ <ins>UC Berkeley</ins> majoring in Computer Science.</p>
+<div class="message">
+  Expected graduation: fall 22
+</div>
+
+<h2 id="degree">Degree</h2>
+
+<div class="inline_parent">
+  <div class="inline_child">
+    <img src="imgs/UC_Berkeley_Seal_80px.png" width="80" height="80" /></div>
+  <div class="inline_child">
+    **University of California at Berkeley**
+    </div>
+</div>
+
+<h2 id="some-course-recommendations">Some course recommendations:</h2>
+
+<p>I really enjoy studying CS at Berkeley. Most of Berkeley’s CS undergrad materials are fully open-sourced, so you can learn them any time you like. Here is a selection of the tech courses I took, along with their websites and official notes (if any).</p>
+
+<h2 id="technical">Technical</h2>
+<ul>
+  <li><strong>EECS 16A:</strong> Designing Information Devices and Systems I <a href="https://www.eecs16a.org/">[website]</a></li>
+  <li><strong>CS 61A:</strong> Structure and Interpretation of Computer Programs <a href="https://cs61a.org/">[website]</a></li>
+  <li><strong>CS 61B:</strong> Data Structures <a href="https://inst.eecs.berkeley.edu/~cs61b/">[website]</a></li>
+  <li><strong>CS 61C:</strong> Great Ideas in Computer Architecture (Machine Structures) <a href="https://cs61c.org/">[website]</a></li>
+  <li><strong>CS 70:</strong> Discrete Mathematics and Probability Theory <a href="https://www.eecs70.org/">[website]</a><a href="class_notes/CS70-Fa21.pdf">[official_notes]</a></li>
+  <li><strong>CS 161:</strong> Computer Security <a href="https://cs161.org/">[website]</a><a href="https://textbook.cs161.org">[textbook]</a></li>
+  <li><strong>CS 188:</strong> Introduction to Artificial Intelligence <a href="https://inst.eecs.berkeley.edu/~cs188/">[website]</a><a href="class_notes/CS188-Sp22.pdf">[official_notes]</a></li>
+</ul>
+
+<h2 id="non-technical">Non-technical</h2>
+<ul>
+  <li><strong>MATH 53:</strong> Multivariable Calculus <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/">[MIT-Open-Course]</a></li>
+  <li><strong>MATH 113:</strong> Introduction to Abstract Algebra <a href="https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf">[official_notes]</a></li>
+  <li><strong>PHILOS 12A:</strong> Introduction to Logic <a href="class_notes/W12A_notes.pdf">[official_notes]</a></li>
+</ul>
+:ET

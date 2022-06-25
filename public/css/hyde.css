@@ -248,3 +248,24 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.iconDetails {
+  margin-left:2%;
+  float:left; 
+  height:72px;
+  width:72px;	
+  border: transparent 1px solid;
+ } 
+ 
+.container2 {
+  margin: 1rem;
+  width:100%;
+  height:80px;
+  text-align: left;
+  border: transparent 1px solid;
+}
+ 
+h5 {
+  margin:0px;
+  font-size: 1.1em;
+}
