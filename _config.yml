@@ -3,7 +3,7 @@ title: Ryan An
 tagline: Personal Website
 url: https://ryeii.github.io/
 paginate: 1
-baseurl: https://ryeii.github.io/
+# baseurl: https://ryeii.github.io/
 permalink: pretty
 
 # Gems
