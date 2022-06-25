@@ -4,7 +4,7 @@
  <title>Ryan An</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-06-24T22:04:24-07:00</updated>
+ <updated>2022-06-24T22:36:25-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Ryan An</name>
@@ -34,11 +34,16 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Programming languages: Python, R, Java, C&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;some-course-recommendations&quot;&gt;Some course recommendations:&lt;/h2&gt;
 
 &lt;p&gt;I really enjoy studying CS at Berkeley. Most of Berkeley’s CS undergrad materials are fully open-sourced, so you can learn them any time you like. Here is a selection of the tech courses I took, along with their websites and official notes (if any).&lt;/p&gt;
 
-&lt;h2 id=&quot;technical&quot;&gt;Technical&lt;/h2&gt;
+&lt;h3 id=&quot;technical&quot;&gt;Technical&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;EECS 16A:&lt;/strong&gt; Designing Information Devices and Systems I &lt;a href=&quot;https://www.eecs16a.org/&quot;&gt;[website]&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;CS 61A:&lt;/strong&gt; Structure and Interpretation of Computer Programs &lt;a href=&quot;https://cs61a.org/&quot;&gt;[website]&lt;/a&gt;&lt;/li&gt;
@@ -49,7 +54,7 @@
   &lt;li&gt;&lt;strong&gt;CS 188:&lt;/strong&gt; Introduction to Artificial Intelligence &lt;a href=&quot;https://inst.eecs.berkeley.edu/~cs188/&quot;&gt;[website]&lt;/a&gt;&lt;a href=&quot;class_notes/CS188-Sp22.pdf&quot;&gt;[official_notes]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;non-technical&quot;&gt;Non-technical&lt;/h2&gt;
+&lt;h3 id=&quot;non-technical&quot;&gt;Non-technical&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;MATH 53:&lt;/strong&gt; Multivariable Calculus &lt;a href=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/&quot;&gt;[MIT-Open-Course]&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;MATH 113:&lt;/strong&gt; Introduction to Abstract Algebra &lt;a href=&quot;https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf&quot;&gt;[official_notes]&lt;/a&gt;&lt;/li&gt;

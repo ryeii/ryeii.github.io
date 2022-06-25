@@ -269,3 +269,12 @@ h5 {
   margin:0px;
   font-size: 1.1em;
 }
+
+.faceDetails {
+  margin-top: 8%;
+  margin-left:2%;
+  height:300px;
+  width:300px;	
+  border: transparent 1px solid;
+  border-radius: 50%;
+} 
