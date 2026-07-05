@@ -15,7 +15,7 @@ const publications = [
     authors: "Zhiyu An and Wan Du",
     title: "MoralReason: Generalizable Moral Decision Alignment For LLM Agents Using Reasoning-Level Reinforcement Learning",
     url: "https://arxiv.org/abs/2511.12271",
-    topics: ["interface"],
+    topics: ["ml", "interface"],
   },
   {
     year: 2026,
@@ -34,7 +34,7 @@ const publications = [
     title: "Representational Homomorphism Error Predicts Compositional Generalization In Language Models",
     url: "https://neurips.cc/virtual/2025/loc/san-diego/136901",
     note: "Spotlight, Oral. Also presented at the NeurIPS Workshop on Foundations of Reasoning in Language Models",
-    topics: ["interface"],
+    topics: ["ml", "interface"],
   },
   {
     year: 2025,
@@ -71,7 +71,7 @@ const publications = [
     authors: "Xianzhong Ding, Wanshi Hong, Bin Wang, Zhiyu An, and Wan Du",
     title: "Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery",
     note: "Best Paper Award",
-    topics: ["ml", "environment"],
+    topics: ["environment"],
   },
   {
     year: 2024,
@@ -95,7 +95,7 @@ const publications = [
     year: 2024,
     venueFull: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
     venueShort: "KDD",
-    authors: "Yuning Chen, Kang Yang, Brady Holder, Luke Paloutzian, Khaled M. Bali, Zhiyu An, and Wan Du",
+    authors: "Yuning Chen, Kang Yang, Zhiyu An, Brady Holder, Luke Paloutzian, Khaled M. Bali, and Wan Du",
     title: "MARLP: Time-series Forecasting Control for Agricultural Managed Aquifer Recharge",
     url: "https://dl.acm.org/doi/10.1145/3637528.3671533",
     topics: ["ml", "environment"],
