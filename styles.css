@@ -1,6 +1,7 @@
 :root {
   --bg: #fbfaf7;
-  --paper: #ffffff;
+  /* --paper: #ffffff; */
+  --paper: #fbfaf7;
   --ink: #202020;
   --muted: #5f6362;
   --line: #ddd7ca;
